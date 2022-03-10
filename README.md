@@ -4,3 +4,4 @@
 * [Cleaning up a matplotlib/plotnine/other Python data viz in Illustrator](https://www.youtube.com/watch?v=yPOLDdEMgHo)
 * [Fixing font issues – "missing rule for converting font" error](fixing-fonts)
 * [Text shadows/glow](text-shadows-glow)
+* [Text looks awful when resizing](https://youtu.be/6vHsnjTp3_w)
