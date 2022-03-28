@@ -5,3 +5,5 @@
 * [Fixing font issues – "missing rule for converting font" error](fixing-fonts)
 * [Text shadows/glow](text-shadows-glow)
 * [Text looks awful when resizing](https://youtu.be/6vHsnjTp3_w)
+* [JavaScript/D3 interactives with ai2html](https://youtu.be/bJKLmEBu2sE)
+* [Scrollytelling with ai2html](https://youtu.be/hZ1g7d5BPYQ)
