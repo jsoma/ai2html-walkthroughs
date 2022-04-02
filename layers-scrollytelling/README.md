@@ -1,6 +1,22 @@
 ## Adjustment: side-by-side scrollytelling
 
-For **side-by-side scrollytelling**, add the following to the bottom of your `<style>` block, and then change your `<div id="scrolly">` to be `<div id="scrolly" class="side-by-side">`.
+For **side-by-side scrollytelling**, you need to do two steps.
+
+First, find the line that that is the start of your scroller...
+
+```html
+<div id="scrolly">
+```
+
+...and add a class of `side-by-side` to it:
+
+```html
+<div id="scrolly" class="side-by-side">
+```
+
+Refresh and see if it works!
+
+If you're using an older template that doesn't already have the rules for `side-by-side` you will need to add them. Scroll up to your style block and add the lines below, which will only affect the scroller if it has the `side-by-side` class.
 
 ```css
 /* When it's less than 700 pixels wide, do normal scrollytelling */
@@ -30,3 +46,5 @@ For **side-by-side scrollytelling**, add the following to the bottom of your `<s
     }
 }
 ```
+
+Read the comments to see which parts you can adjust to change the display!
