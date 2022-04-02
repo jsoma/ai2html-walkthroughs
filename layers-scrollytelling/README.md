@@ -1,6 +1,6 @@
 ## Adjustment: side-by-side scrollytelling
 
-For **side-by-side scrollytelling**, you need to do two steps.
+For **side-by-side scrollytelling**, you need to do one (or maybe two) steps.
 
 First, find the line that that is the start of your scroller...
 
@@ -14,7 +14,7 @@ First, find the line that that is the start of your scroller...
 <div id="scrolly" class="side-by-side">
 ```
 
-Refresh and see if it works!
+**Refresh and see if it works!**
 
 If you're using an older template that doesn't already have the rules for `side-by-side` you will need to add them. Scroll up to your style block and add the lines below, which will only affect the scroller if it has the `side-by-side` class.
 
