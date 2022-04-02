@@ -41,6 +41,7 @@ If you're using an older template that doesn't already have the rules for `side-
     }
 
     #scrolly.side-by-side .sticky-thing {
+        /* Change order to 0 if you want the text on the right */
         order: 1;
         flex-grow: 2;
     }
