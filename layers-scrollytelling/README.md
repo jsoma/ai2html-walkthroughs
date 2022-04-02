@@ -1,6 +1,6 @@
 ## Adjustment: side-by-side scrollytelling
 
-For **side-by-side scrollytelling**, add the following to the bottom of your style block, and then change your `<div id="scrolly">` to be `<div id="scrolly" class="side-by-side">`.
+For **side-by-side scrollytelling**, add the following to the bottom of your `<style>` block, and then change your `<div id="scrolly">` to be `<div id="scrolly" class="side-by-side">`.
 
 ```css
 /* When it's less than 700 pixels wide, do normal scrollytelling */
