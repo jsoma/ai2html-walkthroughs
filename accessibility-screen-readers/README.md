@@ -22,7 +22,9 @@ Typically you'd just go straight from your HTML right into your ai2html.
 <p>This is some text</p>
 <p>Here's more story text</p>
 
+
 <!-- This is where you paste your ai2html -->
+
 
 <p>Going back to the story text</p>
 ```
@@ -38,8 +40,12 @@ Instead, we're going to add additional structure to hide [our well-written text 
 </div>
 
 <div aria-hidden="true">
+
+
     <!-- This is where you paste your ai2html -->
-</div>
+
+
+</div> <!-- end of aria-hidden -->
 
 <p>Going back to the story text</p>
 ```
